@@ -2,6 +2,14 @@
 
 A simple Blog Management API built with Flask and JSON file storage. This project demonstrates basic CRUD operations using Flask routes and a local JSON database.
 
+<p align="center">
+  <img 
+    src="/hero.png" 
+    width="90%" 
+    style="border-radius:15px; overflow:hidden;"
+  />
+</p>
+
 ## Features
 
 * View all blog posts
